@@ -1,2 +1,0 @@
-# nerdclass
-Clkasses
